@@ -6,7 +6,7 @@
 <p> With these content, the website serves as a platform for newer fans to get to know more about the band, and hopefully it will answer some of their questions and curiosities about the band!
 </p>
 
-<h2> Design Process <h/2>
+<h2> Design Process </h2>
 
 <p> When I first thought of creating a website for a band, I knew that I wanted my website to be a platform for newer fans or people interested about the band, to be able to get to know the band more through the use of my website. Thus, I created this website with a focus on an audience filled with new fans.
 </p>
