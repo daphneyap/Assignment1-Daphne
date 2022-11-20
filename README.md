@@ -1,2 +1,2 @@
-# Assignment1-Daphne
-Website For Air League Band (Qi Yun Lian Meng)
+# Assignment1 - Daphne
+Website For Air League Band (气运联盟）
