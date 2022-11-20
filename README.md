@@ -1,37 +1,23 @@
 <h1> Air League Band (气运联盟）</h1>
 
-<hr>
-
 <p> My project is creating a fan website, also known as a fansite, for the Chinese Pop Band named Air League. This website will contain different information about the band and of the members, and also include the videos and performances they have.
 </p>
 
 <p> With these content, the website serves as a platform for newer fans to get to know more about the band, and hopefully it will answer some of their questions and curiosities about the band!
 </p>
 
-<br>
-<br>
-
-<h2> Design Process <h2>
-
-<hr>
+<h2> Design Process <h/2>
 
 <p> When I first thought of creating a website for a band, I knew that I wanted my website to be a platform for newer fans or people interested about the band, to be able to get to know the band more through the use of my website. Thus, I created this website with a focus on an audience filled with new fans.
 </p>
 
 <p> Since newer fans may not know much about the band, but they are very interested and eager to know more, I feel that my website will be able to help them achieve that as the content is catered more to newer fans, and provides sufficient amount of information for them to know more about the band.
 </p>
-
-<br>
-
+  
 <p> For my wireframe, the XD file is loacted inside my Assignment 1 file.
 </p>
 
-<br>
-<br>
-
 <h2> Features </h2>
-
-<hr>
 
 <p> Home Page: The page that includes the navigaion bar and a picture of the band.
 </p>
@@ -51,12 +37,7 @@
 <p> The Coming One: Superband Page: The page which contains all the episodes of the show (The show which Air League was formed on).
 </p>
 
-<br>
-<br>
-
 <h2> Technologies Used </h2>
-
-<hr>
 
 <ul>
 <li> HTML </li>
@@ -73,20 +54,10 @@
 <p> To also find pictures for the website. </p>
 <p> https://m.weibo.cn/ </p>
 </ul>
-
-<br>
-<br>
-
+  
 <h2> Testing </h2>
 
-<hr>
-
-<br>
-<br>
-
 <h2> Credits </h2>
-
-<hr>
 
 <h3> Content </h3>
 
